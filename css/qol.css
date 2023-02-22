@@ -4,6 +4,10 @@ h1, p{
     margin-bottom: 3%;
 }
 
+hr.solid {
+    border-top: 3px solid white;
+  }
+
 .box{
     background-color:#D9D9D9;
     width: 88%;
