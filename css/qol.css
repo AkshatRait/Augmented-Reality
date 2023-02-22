@@ -10,7 +10,7 @@ hr.solid {
 
 .box{
     background-color:#D9D9D9;
-    width: 88%;
+    width: 70%;
     margin: auto;
     padding-top: 1%;
     padding-bottom: 2%;
@@ -28,4 +28,8 @@ hr.solid {
 
 img{
     margin: 5%;
+}
+
+.center{
+    margin: auto;
 }
