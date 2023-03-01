@@ -1,0 +1,25 @@
+.container{
+    margin-top: 50px;
+}
+
+img{
+    height: 80vh;
+    margin:auto;
+}
+
+#background{
+    padding:30px;
+    background-color:rgb(43, 48, 53);
+}
+.carousel-inner h1,p{
+    color: aliceblue;
+}
+.carousel-inner p{
+    font-size: 30px;
+} 
+
+#info p{
+    
+    color: black;
+}
+

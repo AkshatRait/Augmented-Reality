@@ -54,8 +54,16 @@
 }
 
 p{
+  padding: 10px;
+  border-radius: 10px;
   font-size: 60px;
   background-color: rgb(109, 147, 187);
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+img{
+  border-radius: 20px;
 }
