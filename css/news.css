@@ -50,14 +50,16 @@ iframe{
     max-width: 50%;
 }
 
-.about{
+.aboutcontainer{
     background-color:rgb(43, 48, 53);
 }
 
-.about h1{
+.aboutcontainer h1{
     padding-top: 20px;
     color: aliceblue;
+    text-align: center;
 }
+
 .card{
     
     display:inline-block;
