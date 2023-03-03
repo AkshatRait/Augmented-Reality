@@ -37,13 +37,16 @@ iframe{
     margin-bottom: 100px;
 }
 
-.videoheading p{
+.videocontainer{
     background-image:url(https://4kwallpapers.com/images/wallpapers/outrun-neon-dark-background-purple-1920x1080-4523.jpg);
     color:rgb(255, 255, 255);
     font-size: 60px;
     text-align: center;
-    margin-top: 50px;
-    padding: 10px;
+    padding-top: 30px;
+}
+
+.videocontainer iframe{
+    max-width: 50%;
 }
 
 .about{
