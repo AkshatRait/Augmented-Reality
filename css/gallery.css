@@ -14,11 +14,11 @@
   width: 100% !important;
   height: auto !important;
   margin-bottom:5px;
-  filter: none; 
+  filter: grayscale(0.8);
 }
 
 #gallery img:hover {
-   filter: grayscale(0.8);
+   filter: none; 
 }
 
 @media (max-width: 1200px) {
