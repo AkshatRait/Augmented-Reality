@@ -26,12 +26,3 @@ body, html{
 .card{
     margin: 0 15px 35px;
 }
-
-.content{
-    background: rgb(34,34,34);
-background: linear-gradient(180deg, rgba(34,34,34,1) 0%, rgba(198,198,198,1) 65%, rgba(255,255,255,1) 100%);
-}
-
-.content h1, .lead{
-    color: white;
-}
