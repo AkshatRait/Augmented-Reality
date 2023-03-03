@@ -17,7 +17,8 @@
 h1{
     padding: 10px;
     margin: 20px;
-    background-color: bisque;
+    background-color: rgb(43, 48, 53);
+    color: aliceblue;
 }
 
 h3{

@@ -11,9 +11,11 @@ img{
     padding:30px;
     background-color:rgb(43, 48, 53);
 }
+
 .carousel-inner h1,p{
     color: aliceblue;
 }
+
 .carousel-inner p{
     font-size: 30px;
 } 
@@ -23,3 +25,42 @@ img{
     color: black;
 }
 
+.video{
+    padding: 80px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+iframe{    
+    border-radius: 20px;
+    margin-top: 100px; 
+    margin-bottom: 100px;
+}
+
+.videoheading p{
+    background-image:url(https://4kwallpapers.com/images/wallpapers/outrun-neon-dark-background-purple-1920x1080-4523.jpg);
+    color:rgb(255, 255, 255);
+    font-size: 60px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.about{
+    background-color:rgb(43, 48, 53);
+}
+
+.about h1{
+    padding-top: 20px;
+    color: aliceblue;
+}
+.card{
+    
+    display:inline-block;
+    margin:20px;
+   overflow:hidden ;
+}
+
+.card p{
+    color: black;
+}
