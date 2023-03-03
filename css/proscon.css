@@ -5,13 +5,22 @@
 }
 
 #procards{
+    margin: 15px;
     border-radius: 20px;
-    background-color: greenyellow;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgba(172, 255, 47, 0.164);
 }
 
+
+
+
 #conscards{
+    margin: 15px;
     border-radius: 20px;
-    background-color: rgb(160, 62, 62);
+    border-style: solid;
+    border-width: 15px;
+    border-color: rgba(160, 62, 62, 0.192);
 }
 
 h1{
