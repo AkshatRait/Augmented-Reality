@@ -26,9 +26,10 @@ img{
 }
 
 .video{
+    margin-bottom: 200px;
     padding: 80px;
     padding-top: 0%;
-    padding-bottom: 0%;
+    padding-bottom: 0;
 }
 
 iframe{    
